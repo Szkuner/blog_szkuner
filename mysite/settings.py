@@ -25,7 +25,7 @@ SECRET_KEY = '3^1!z3qc4_i+kc!ix04irvi7bmv^g0c&xpr8a%))-qm7i-+euv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tsuno12.pythonanywhere.com']
 
 
 # Application definition
